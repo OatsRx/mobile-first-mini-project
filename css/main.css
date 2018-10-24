@@ -1,7 +1,8 @@
+
+/* I can't work out why my header (being a block element) will not use 100% of its space? */
 .header {
     position: fixed;
-    top: 0:
-    
+    top: 0: 
     left: 0;
     right: 0;
     background-color: #e84610;
